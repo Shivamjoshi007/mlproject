@@ -16,6 +16,6 @@ name='mlproject',
 version= '0.0.1',
 author='Shivam',
 author_email='shivampjoshi313@gmail.com',
-packages=find_packages(),
-install_requires=get_requirements('requirements.txt')
+packages= find_packages(),
+install_requires= get_requirements('requirements.txt')
 )
